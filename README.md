@@ -14,10 +14,10 @@
 
  <p> 
  <img width="917" height="442" alt="image" 
- src="https://github.com/user-attachments/assets/eddfc0e9-e551-4063-8d4d-102234448a13" /> 
+ src="https://github.com/AnchineshTaddese-IT/create-manage-users/blob/main/userMic.png" /> 
 
  </p> 
- <p> Created a new local user accounts named Avery, Georgina Taylor and Williams, James Manny. 
+ <p> Created a new local user accounts named Shernet  James and Sylvia  Flores. 
  </p> 
  <br /> 
   
